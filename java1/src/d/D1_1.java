@@ -4,6 +4,6 @@ public class D1_1 {
 
 }
 
-class Shit{
+class Shit {
 	
 }
